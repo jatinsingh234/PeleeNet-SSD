@@ -49,13 +49,6 @@ return_predictor_sizes = False
 
 K.clear_session()
 
-# file paths
-# train_images_dir = '/media/shishuai/DATA1/Documents/Datasets/COCO2017/train2017/'
-# train_annotations_filename = '/media/shishuai/DATA1/Documents/Datasets/COCO2017/annotations/instances_train2017.json'
-# val_images_dir = '/media/shishuai/DATA1/Documents/Datasets/COCO2017/val2017/'
-# val_annotations_filename = '/media/shishuai/DATA1/Documents/Datasets/COCO2017/annotations/instances_val2017.json'
-# log_dir = '/media/shishuai/DATA1/Documents/pelee_keras_logs/0415'
-
 # train_images_dir = '../dataset/cocoformatwithimg/images'
 # train_annotations_filename = '../dataset/cocoformatwithimg/annotations/instances_default.json'
 # val_images_dir = '../dataset/cocoformatwithimg/images'
