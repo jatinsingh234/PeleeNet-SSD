@@ -49,11 +49,6 @@ return_predictor_sizes = False
 
 K.clear_session()
 
-# train_images_dir = '../dataset/cocoformatwithimg/images'
-# train_annotations_filename = '../dataset/cocoformatwithimg/annotations/instances_default.json'
-# val_images_dir = '../dataset/cocoformatwithimg/images'
-# val_annotations_filename = '../dataset/cocoformatwithimg/annotations/instances_default.json'
-# log_dir = '../Pelee_keras_logs'
 train_images_dir = '../dataset/4-Dir'
 train_annotations_filename = '../dataset/4-dir-ann/train.json'
 val_images_dir = '../dataset/new-training/train'
